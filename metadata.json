@@ -1,0 +1,6 @@
+{
+  "name": "Canopy Quest",
+  "description": "An interactive Enchanted Jungle story adventure game for kids ages 6–9 featuring 5 progressive chapters, friendly boss battles, and a customizable reactive animal buddy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
